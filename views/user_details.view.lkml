@@ -1,5 +1,5 @@
 view: user_details {
-  sql_table_name: "policyTestSchema_1.user_details"
+  sql_table_name: "policyTestSchema_1"."user_details"
     ;;
   drill_fields: [id]
 
